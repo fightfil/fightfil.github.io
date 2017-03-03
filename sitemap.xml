@@ -4,84 +4,84 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>http://fightfil.github.io/</loc>
-<lastmod>2017-03-02T23:44:44-00:00</lastmod>
+<loc>/</loc>
+<lastmod>2017-03-02T23:48:29-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://fightfil.github.io/archives.html</loc>
-<lastmod>2017-03-02T23:44:44-00:00</lastmod>
+<loc>/archives.html</loc>
+<lastmod>2017-03-02T23:48:29-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://fightfil.github.io/tags.html</loc>
-<lastmod>2017-03-02T23:44:44-00:00</lastmod>
+<loc>/tags.html</loc>
+<lastmod>2017-03-02T23:48:29-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://fightfil.github.io/categories.html</loc>
-<lastmod>2017-03-02T23:44:44-00:00</lastmod>
+<loc>/categories.html</loc>
+<lastmod>2017-03-02T23:48:29-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://fightfil.github.io/pages/about.html</loc>
-<lastmod>2017-03-02T23:44:44-00:00</lastmod>
+<loc>/pages/about.html</loc>
+<lastmod>2017-03-02T23:48:29-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://fightfil.github.io/pages/penultimate-step/index.html</loc>
-<lastmod>2017-03-02T23:44:44-00:00</lastmod>
+<loc>/pages/penultimate-step/index.html</loc>
+<lastmod>2017-03-02T23:48:29-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://fightfil.github.io/pages/sea-songs.html</loc>
-<lastmod>2017-03-02T23:44:44-00:00</lastmod>
+<loc>/pages/sea-songs.html</loc>
+<lastmod>2017-03-02T23:48:29-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://fightfil.github.io/pages/the-voltun-collection.html</loc>
-<lastmod>2017-03-02T23:44:44-00:00</lastmod>
+<loc>/pages/the-voltun-collection.html</loc>
+<lastmod>2017-03-02T23:48:29-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://fightfil.github.io/sea-songs-1.html</loc>
+<loc>/sea-songs-1.html</loc>
 <lastmod>2016-09-12T00:00:00-04:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://fightfil.github.io/tps-chapter-2.html</loc>
+<loc>/tps-chapter-2.html</loc>
 <lastmod>2016-09-05T00:00:00-04:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://fightfil.github.io/tps-chapter-1.html</loc>
+<loc>/tps-chapter-1.html</loc>
 <lastmod>2016-09-02T00:00:00-04:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://fightfil.github.io/tps-prologue.html</loc>
+<loc>/tps-prologue.html</loc>
 <lastmod>2016-08-31T00:00:00-04:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
