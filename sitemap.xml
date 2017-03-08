@@ -5,56 +5,49 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://fightfil.github.io/</loc>
-<lastmod>2017-03-02T23:59:58-00:00</lastmod>
+<lastmod>2017-03-07T22:37:02-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://fightfil.github.io/archives.html</loc>
-<lastmod>2017-03-02T23:59:58-00:00</lastmod>
+<lastmod>2017-03-07T22:37:02-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://fightfil.github.io/tags.html</loc>
-<lastmod>2017-03-02T23:59:58-00:00</lastmod>
+<lastmod>2017-03-07T22:37:02-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://fightfil.github.io/categories.html</loc>
-<lastmod>2017-03-02T23:59:58-00:00</lastmod>
+<lastmod>2017-03-07T22:37:02-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://fightfil.github.io/pages/about.html</loc>
-<lastmod>2017-03-02T23:59:58-00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
 <loc>https://fightfil.github.io/pages/penultimate-step/index.html</loc>
-<lastmod>2017-03-02T23:59:58-00:00</lastmod>
+<lastmod>2017-03-07T22:37:02-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://fightfil.github.io/pages/sea-songs.html</loc>
-<lastmod>2017-03-02T23:59:58-00:00</lastmod>
+<loc>https://fightfil.github.io/pages/sea-songs/index.html.html</loc>
+<lastmod>2017-03-07T22:37:02-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://fightfil.github.io/pages/the-voltun-collection.html</loc>
-<lastmod>2017-03-02T23:59:58-00:00</lastmod>
+<lastmod>2017-03-07T22:37:02-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
